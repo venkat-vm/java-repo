@@ -1,4 +1,4 @@
-# Java Engineering solutions
+# Java Engineering Solutions
 
 Working demos of distributed-systems and backend engineering patterns I've
 applied in production — each one grounded in a real problem, not a toy
