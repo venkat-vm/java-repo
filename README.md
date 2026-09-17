@@ -1,4 +1,4 @@
-# Java Engineering Portfolio
+# Java Engineering solutions
 
 Working demos of distributed-systems and backend engineering patterns I've
 applied in production — each one grounded in a real problem, not a toy
